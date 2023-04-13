@@ -1,0 +1,22 @@
+ol{
+    font-size: 20px;
+}
+body {
+    margin: 5;
+    color: var(--bs-body-color);
+    text-align:center;
+    background-color: peachpuff;
+    list-style-position: inside;
+  }
+h2{
+    color: navy;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size:large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
